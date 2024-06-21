@@ -1,0 +1,10 @@
+.list {
+  font-size: 24px;
+  margin-top: 20px;
+}
+.list li {
+  display: flex;
+  margin-bottom: 15px;
+  width: 200px;
+  justify-content: space-between;
+}
